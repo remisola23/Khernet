@@ -160,7 +160,7 @@ namespace Khernet.UI
                     await IoCContainer.UI.ShowMessageBox(new MessageBoxViewModel
                     {
                         Message = "Incorrect user name or password",
-                        Title = "Khernet",
+                        Title = "Faratech LAN",
                         ShowAcceptOption = true,
                         AcceptOptionLabel = "OK",
                         ShowCancelOption = false,
@@ -174,7 +174,7 @@ namespace Khernet.UI
                 await IoCContainer.UI.ShowMessageBox(new MessageBoxViewModel
                 {
                     Message = Constants.ErrorMessage,
-                    Title = "Khernet",
+                    Title = "Faratech LAN",
                     ShowAcceptOption = true,
                     AcceptOptionLabel = "OK",
                     ShowCancelOption = false,

@@ -170,7 +170,7 @@ namespace Khernet.UI
                 var messageBox = new MessageBoxViewModel
                 {
                     Message = "Do you want to close session?",
-                    Title = "Khernet",
+                    Title = "Faratech LAN",
                     ShowAcceptOption = true,
                     ShowCancelOption = true,
                     AcceptOptionLabel = "Yes",
@@ -192,7 +192,7 @@ namespace Khernet.UI
                 await IoCContainer.UI.ShowMessageBox(new MessageBoxViewModel
                 {
                     Message = Constants.ErrorMessage,
-                    Title = "Khernet",
+                    Title = "Faratech LAN",
                     ShowAcceptOption = true,
                     AcceptOptionLabel = "OK",
                     ShowCancelOption = false,

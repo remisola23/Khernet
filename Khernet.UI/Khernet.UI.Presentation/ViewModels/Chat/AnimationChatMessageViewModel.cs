@@ -193,7 +193,7 @@ namespace Khernet.UI
                 await IoCContainer.UI.ShowMessageBox(new MessageBoxViewModel
                 {
                     Message = "GIF added successfully to gallery",
-                    Title = "Khernet",
+                    Title = "Faratech LAN",
                     ShowAcceptOption = true,
                     AcceptOptionLabel = "OK",
                     ShowCancelOption = false,
@@ -205,7 +205,7 @@ namespace Khernet.UI
                 await IoCContainer.UI.ShowMessageBox(new MessageBoxViewModel
                 {
                     Message = "Error while saving GIF",
-                    Title = "Khernet",
+                    Title = "Faratech LAN",
                     ShowAcceptOption = true,
                     AcceptOptionLabel = "OK",
                     ShowCancelOption = false,

@@ -250,7 +250,7 @@ namespace Khernet.UI
                 MessageBoxViewModel messageModel = new MessageBoxViewModel
                 {
                     Message = $"Error: {error.Message}",
-                    Title = "Khernet",
+                    Title = "Faratech LAN",
                     ShowAcceptOption = true,
                     AcceptOptionLabel = "OK",
                     ShowCancelOption = false,

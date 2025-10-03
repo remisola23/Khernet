@@ -378,7 +378,7 @@ namespace Khernet.UI
                     await IoCContainer.UI.ShowMessageBox(new MessageBoxViewModel
                     {
                         Message = "Error while sharing contact",
-                        Title = "Khernet",
+                        Title = "Faratech LAN",
                         ShowAcceptOption = true,
                         AcceptOptionLabel = "OK",
                         ShowCancelOption = false,
@@ -498,7 +498,7 @@ namespace Khernet.UI
                     await IoCContainer.UI.ShowMessageBox(new MessageBoxViewModel
                     {
                         Message = "File size must be less o equal to 2 GB",
-                        Title = "Khernet",
+                        Title = "Faratech LAN",
                         ShowAcceptOption = true,
                         AcceptOptionLabel = "OK",
                         ShowCancelOption = false,
@@ -704,7 +704,7 @@ namespace Khernet.UI
                 await IoCContainer.UI.ShowMessageBox(new MessageBoxViewModel
                 {
                     Message = "Error while sending message",
-                    Title = "Khernet",
+                    Title = "Faratech LAN",
                     ShowAcceptOption = true,
                     AcceptOptionLabel = "OK",
                     ShowCancelOption = false,
@@ -749,7 +749,7 @@ namespace Khernet.UI
                 await IoCContainer.UI.ShowMessageBox(new MessageBoxViewModel
                 {
                     Message = "Error while sending GIF",
-                    Title = "Khernet",
+                    Title = "Faratech LAN",
                     ShowAcceptOption = true,
                     AcceptOptionLabel = "OK",
                     ShowCancelOption = false,

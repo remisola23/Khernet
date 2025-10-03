@@ -105,7 +105,7 @@ namespace Khernet.UI
                 MessageBoxViewModel messageModel = new MessageBoxViewModel
                 {
                     Message = $"User is being loaded, please try again later.",
-                    Title = "Khernet",
+                    Title = "Faratech LAN",
                     ShowAcceptOption = true,
                     AcceptOptionLabel = "OK",
                     ShowCancelOption = false,

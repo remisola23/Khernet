@@ -179,7 +179,7 @@ namespace Khernet.UI
                 await IoCContainer.UI.ShowMessageBox(new MessageBoxViewModel
                 {
                     Message = "Error while updating avatar",
-                    Title = "Khernet",
+                    Title = "Faratech LAN",
                     ShowAcceptOption = true,
                     AcceptOptionLabel = "OK",
                     ShowCancelOption = false,
@@ -280,7 +280,7 @@ namespace Khernet.UI
                 await IoCContainer.UI.ShowMessageBox(new MessageBoxViewModel
                 {
                     Message = "Error while editing name",
-                    Title = "Khernet",
+                    Title = "Faratech LAN",
                     ShowAcceptOption = true,
                     AcceptOptionLabel = "OK",
                     ShowCancelOption = false,
@@ -319,7 +319,7 @@ namespace Khernet.UI
                     await IoCContainer.UI.ShowMessageBox(new MessageBoxViewModel
                     {
                         Message = "Error while updating avatar",
-                        Title = "Khernet",
+                        Title = "Faratech LAN",
                         ShowAcceptOption = true,
                         AcceptOptionLabel = "OK",
                         ShowCancelOption = false,
@@ -341,7 +341,7 @@ namespace Khernet.UI
                     await IoCContainer.UI.ShowMessageBox(new MessageBoxViewModel
                     {
                         Message = "Username must be less or equal to 20 characters, contain alphanumeric characters and underscore only",
-                        Title = "Khernet",
+                        Title = "Faratech LAN",
                         ShowAcceptOption = true,
                         AcceptOptionLabel = "OK",
                         ShowCancelOption = false,
@@ -361,7 +361,7 @@ namespace Khernet.UI
                 await IoCContainer.UI.ShowMessageBox(new MessageBoxViewModel
                 {
                     Message = "Profile saved successfully",
-                    Title = "Khernet",
+                    Title = "Faratech LAN",
                     ShowAcceptOption = true,
                     AcceptOptionLabel = "OK",
                     ShowCancelOption = false,
@@ -373,7 +373,7 @@ namespace Khernet.UI
                 await IoCContainer.UI.ShowMessageBox(new MessageBoxViewModel
                 {
                     Message = "Error while saving profile",
-                    Title = "Khernet",
+                    Title = "Faratech LAN",
                     ShowAcceptOption = true,
                     AcceptOptionLabel = "OK",
                     ShowCancelOption = false,
@@ -400,7 +400,7 @@ namespace Khernet.UI
                 await IoCContainer.UI.ShowMessageBox(new MessageBoxViewModel
                 {
                     Message = "Error while loading avatar",
-                    Title = "Khernet",
+                    Title = "Faratech LAN",
                     ShowAcceptOption = true,
                     AcceptOptionLabel = "OK",
                     ShowCancelOption = false,

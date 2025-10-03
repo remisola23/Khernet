@@ -83,7 +83,7 @@ namespace Khernet.UI
                 await applicationDialog.ShowMessageBox(new MessageBoxViewModel
                 {
                     Message = error.Message,
-                    Title = "Khernet",
+                    Title = "Faratech LAN",
                     ShowAcceptOption = true,
                     AcceptOptionLabel = "OK",
                     ShowCancelOption = false,
@@ -110,7 +110,7 @@ namespace Khernet.UI
                 await applicationDialog.ShowMessageBox(new MessageBoxViewModel
                 {
                     Message = error.Message,
-                    Title = "Khernet",
+                    Title = "Faratech LAN",
                     ShowAcceptOption = true,
                     AcceptOptionLabel = "OK",
                     ShowCancelOption = false,

@@ -146,7 +146,7 @@ namespace Khernet.UI
                     await IoCContainer.UI.ShowMessageBox(new MessageBoxViewModel
                     {
                         Message = "User name or password incorrect",
-                        Title = "Khernet",
+                        Title = "Faratech LAN",
                         ShowAcceptOption = true,
                         AcceptOptionLabel = "OK",
                         ShowCancelOption = false,
@@ -158,7 +158,7 @@ namespace Khernet.UI
                 await IoCContainer.UI.ShowMessageBox(new MessageBoxViewModel
                 {
                     Message = "Error while trying to create account",
-                    Title = "Khernet",
+                    Title = "Faratech LAN",
                     ShowAcceptOption = true,
                     AcceptOptionLabel = "OK",
                     ShowCancelOption = false,
@@ -191,7 +191,7 @@ namespace Khernet.UI
                 await IoCContainer.UI.ShowMessageBox(new MessageBoxViewModel
                 {
                     Message = "Passwords must be at least 10 characters and contain letters, numbers, special characters.",
-                    Title = "Khernet",
+                    Title = "Faratech LAN",
                     ShowAcceptOption = true,
                     AcceptOptionLabel = "OK",
                     ShowCancelOption = false,
@@ -203,7 +203,7 @@ namespace Khernet.UI
                 await IoCContainer.UI.ShowMessageBox(new MessageBoxViewModel
                 {
                     Message = "Passwords must be the same.",
-                    Title = "Khernet",
+                    Title = "Faratech LAN",
                     ShowAcceptOption = true,
                     AcceptOptionLabel = "OK",
                     ShowCancelOption = false,

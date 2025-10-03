@@ -109,7 +109,7 @@ namespace Khernet.UI
                 await applicationDialog.ShowMessageBox(new MessageBoxViewModel
                 {
                     Message = "Error while saving file.",
-                    Title = "Khernet",
+                    Title = "Faratech LAN",
                     ShowAcceptOption = true,
                     AcceptOptionLabel = "OK",
                     ShowCancelOption = false,

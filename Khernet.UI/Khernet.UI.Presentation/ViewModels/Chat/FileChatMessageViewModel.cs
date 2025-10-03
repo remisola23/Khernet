@@ -191,7 +191,7 @@ namespace Khernet.UI
                 IoCContainer.UI.ShowMessageBox(new MessageBoxViewModel
                 {
                     Message = error.Message,
-                    Title = "Khernet",
+                    Title = "Faratech LAN",
                     ShowAcceptOption = true,
                     AcceptOptionLabel = "OK",
                     ShowCancelOption = false,

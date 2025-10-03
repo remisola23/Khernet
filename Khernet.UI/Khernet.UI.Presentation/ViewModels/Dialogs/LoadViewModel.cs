@@ -75,7 +75,7 @@ namespace Khernet.UI
                     await IoCContainer.UI.ShowMessageBox(new MessageBoxViewModel
                     {
                         Message = "Some configurations could not be made. Please restart the application as administrator once.",
-                        Title = "Khernet",
+                        Title = "Faratech LAN",
                         ShowAcceptOption = true,
                         AcceptOptionLabel = "OK",
                         ShowCancelOption = false,
@@ -98,7 +98,7 @@ namespace Khernet.UI
                 await IoCContainer.UI.ShowMessageBox(new MessageBoxViewModel
                 {
                     Message = Khernet.UI.Resources.Constants.ErrorMessage,
-                    Title = "Khernet",
+                    Title = "Faratech LAN",
                     ShowAcceptOption = true,
                     AcceptOptionLabel = "OK",
                     ShowCancelOption = false,
