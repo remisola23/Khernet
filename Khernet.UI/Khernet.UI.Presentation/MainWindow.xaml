@@ -24,7 +24,7 @@
                       MinWidth="700"
                       UseLayoutRounding="True"
                       TitleAlignment="Left"
-                      Title="Khernet"
+                      Title="Faratech LAN"
                       FontFamily="{StaticResource RobotoRegularFont}"
                       TitleCaps="False"
                       PreviewKeyDown="MainWin_PreviewKeyDown">
