@@ -109,7 +109,6 @@
                 <LineBreak/>
                 <Run Text="For security reasons only update application from a trusted source."/>
                 <LineBreak/>
-                <Run Text="To get update files click on the following link:"/>
             </TextBlock>
 
             <!-- Updates url -->
@@ -121,9 +120,6 @@
                 <Paragraph FontFamily="{StaticResource RobotoRegularFont}"
                                FontSize="{StaticResource RegularFontSize}"
                                LineHeight="10">
-                        <Hyperlink Command="{Binding OpenUpdatesPageCommand}">
-                            <Run Text="https://github.com/lemalcs/Khernet/releases/latest"/>
-                        </Hyperlink>
                     </Paragraph>
                 </FlowDocument>
             </FlowDocumentScrollViewer>

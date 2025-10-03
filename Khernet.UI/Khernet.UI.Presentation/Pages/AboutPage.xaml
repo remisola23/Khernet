@@ -43,15 +43,11 @@
                     
                     <LineBreak/>
                     <LineBreak/>
-                    <Run Text="Home: "/>
+                    <Run Text="Report an Issue : "/>
                     <Hyperlink Command="{Binding OpenHomePageCommand}" >
-                        <Run Text="https://khernet.app"/>
+                        <Run Text="https://t.me/itz_all_ryan"/>
                     </Hyperlink>
                     <LineBreak/>
-                    <Run Text="Report an issue: "/>
-                    <Hyperlink Command="{Binding OpenIssueCommand}" >
-                        <Run Text="here"/>
-                    </Hyperlink>
                 </Paragraph>
             </FlowDocument>
         </FlowDocumentScrollViewer>

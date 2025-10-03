@@ -12,7 +12,7 @@
     <Color x:Key="OpaqueLightBlueColor">#05ebf3fd</Color>
 
 
-    <Color x:Key="LightColor">#ffffff</Color>
+    <Color x:Key="LightColor">#00000</Color>
     <SolidColorBrush x:Key="LightBrush" Color="{StaticResource LightColor}"/>
 
     <Color x:Key="DarkGrayColor">#9b9b9a</Color>

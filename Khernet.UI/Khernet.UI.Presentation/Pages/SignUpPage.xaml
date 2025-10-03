@@ -44,7 +44,7 @@
             <!--Password 1 -->
             <PasswordBox Name="pass1"/>
 
-            <TextBlock Text="Confirm password" 
+            <TextBlock Text="Confam password (Confam am ooo)" 
                        Style="{StaticResource TextblockHeader}"
                        Margin="0 15 0 5"/>
 

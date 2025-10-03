@@ -18,7 +18,7 @@
 
     <StackPanel Margin="24">
 
-        <Controls:ToggleSwitch Content="Launch Khernet at system login"
+        <Controls:ToggleSwitch Content="Launch Faratech Lan at system login"
                                Style="{StaticResource MahApps.Metro.Styles.ToggleSwitch.Win10}" 
                                IsChecked="{Binding EnableAutoRun,UpdateSourceTrigger=PropertyChanged}"
                                CheckedCommand="{Binding EnableAutoRunCommand}"

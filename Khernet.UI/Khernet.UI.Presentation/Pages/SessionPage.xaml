@@ -13,7 +13,7 @@
     <Grid>
         
         <!-- Action description -->
-        <TextBlock Text="Select a chat to start"
+        <TextBlock Text="Select a chat to start (Abeg na chat oo, No sex chatting abeg)"
                    VerticalAlignment="Center"
                    HorizontalAlignment="Center"
                    TextAlignment="Center"
